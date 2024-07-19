@@ -1,0 +1,330 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nova Square", sans-serif;
+}
+
+.main__card .mian_card_design {
+  background-color: #144272;
+  border-radius: 0.6rem;
+  width: 40%;
+  padding: 1rem;
+}
+.main__card .mian_card_design .header .hello_name p {
+  margin-bottom: 0;
+  color: #526D82;
+  font-size: 14px;
+}
+.main__card .mian_card_design .header .hello_name p .name {
+  color: #9DB2BF;
+}
+.main__card .mian_card_design .header .hello_name p span img {
+  min-width: 1rem;
+  max-width: 1rem;
+}
+.main__card .mian_card_design .header .upgrade___ {
+  background: linear-gradient(90.63deg, #DDA23C 2.28%, #FACC6C 28.35%, #FFB337 67.08%, #976002 104.56%);
+  border-radius: 77px;
+  text-align: center;
+  padding: 0.4rem;
+  margin-top: 1rem;
+}
+.main__card .mian_card_design .header .upgrade___ p {
+  margin-bottom: 0;
+  color: black;
+}
+.main__card .mian_card_design .header .upgrade___ p span img {
+  min-width: 1.4rem;
+  max-width: 1.4rem;
+}
+.main__card .mian_card_design .header .share___ {
+  margin-top: 1rem;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 77px;
+  padding: 0.3rem;
+}
+.main__card .mian_card_design .header .share___ p {
+  margin-bottom: 0;
+  color: white;
+}
+.main__card .mian_card_design .header .share___ p span img {
+  min-width: 1.5rem;
+  max-width: 1.5rem;
+}
+.main__card .mian_card_design .header .my_fitness {
+  text-align: center;
+}
+.main__card .mian_card_design .header .my_fitness p {
+  margin-bottom: 0;
+  background: linear-gradient(to right, #FD902B, #FD902B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 14px;
+}
+.main__card .mian_card_design .header .my_fitness p span img {
+  min-width: 1rem;
+  max-width: 1rem;
+}
+.main__card .mian_card_design .header .flag__ img {
+  min-width: 2.5rem;
+  max-width: 2.5rem;
+}
+.main__card .mian_card_design .saffron__ {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 3px solid;
+  border-image-source: linear-gradient(360deg, #9DB2BF -5.81%, rgba(82, 109, 130, 0) 113.66%);
+  box-shadow: 13px 24px 60px 0px rgba(157, 178, 191, 0.19);
+  box-shadow: -101px -56px 59.5px 0px rgb(32, 48, 70);
+  box-shadow: -4px -37px 135.9px 11px rgb(16, 58, 95) inset;
+  background: linear-gradient(180deg, #9DB2BF -201.89%, #526D82 -42.63%, #203046 104.26%);
+  border-top-left-radius: 2.6rem;
+  border-top-right-radius: 2.6rem;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+.main__card .mian_card_design .saffron__ .rs__ {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(11, 39, 72, 0) 2.31%, #2C74B3 47.25%, rgba(0, 6, 24, 0) 99.25%);
+}
+.main__card .mian_card_design .saffron__ .rs__ img {
+  min-width: 1rem;
+  max-width: 1rem;
+}
+.main__card .mian_card_design .saffron__ .nav__saffron {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(360deg, #27374D -192.64%, rgba(82, 109, 130, 0) 74.42%);
+  padding: 1rem;
+}
+.main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-link.active,
+.main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-pills .show > .nav-link {
+  color: #fff;
+  background: linear-gradient(74.33deg, #FFD566 -7.53%, #FFB337 35.55%);
+  border: 2.16px solid;
+  border-image-source: linear-gradient(180deg, #DDA23C 19.7%, rgba(250, 173, 48, 0) 84.81%);
+  box-shadow: 0px 7px 37.5px 0px rgb(151, 96, 2);
+  box-shadow: 8px 8px 47.2px 6px rgba(255, 179, 55, 0.46);
+  color: black;
+}
+.main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-link {
+  background: linear-gradient(0deg, #27374D 0.11%, #132338 91.59%);
+  border: 2px solid;
+  border-image-source: linear-gradient(180deg, #27374D 19.7%, rgba(92, 120, 150, 0) 84.81%);
+  box-shadow: 11px 11px 16.9px 0px rgba(32, 48, 70, 0.24) inset;
+  box-shadow: 6px 12px 20.6px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: -7px -6px 25.5px 0px rgba(157, 178, 191, 0.21);
+  padding: 0.4rem 1.5rem;
+  color: white;
+  border-radius: 3rem;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker {
+  background-color: #0A2647;
+  border-radius: 0.6rem;
+  padding: 1rem;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker p {
+  color: white;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .small__ img {
+  min-width: 1rem;
+  max-width: 1rem;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .main_circle_image img {
+  min-width: 14rem;
+  max-width: 14rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .ng__ {
+  background: rgb(20, 66, 114);
+  border: 2px solid;
+  padding: 1rem;
+  border-radius: 0.6rem;
+  border-image-source: radial-gradient(984.89% 205.65% at -98.41% -58.25%, #526D82 0%, #27374D 24.23%, #526D82 78.95%);
+  margin-bottom: 0.6rem;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .ng__ .progress {
+  min-height: 8px;
+  max-height: 8px;
+  background-color: transparent;
+  /* Make sure the progress container has no background */
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .ng__ .progress .bg-custom {
+  background: linear-gradient(169.87deg, #F7C243 7.58%, #FD902B 69.55%);
+  background: linear-gradient(169.87deg, #F7C243 7.58%, #FD902B 69.55%);
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .ng__2 {
+  background: linear-gradient(180deg, #144272 0%, #2C74B3 161.54%);
+  border: 2px solid rgb(58, 80, 102);
+  box-shadow: 1px 4.01px 5.41px 0px rgba(82, 109, 130, 0.76) inset;
+  border-radius: 0.6rem;
+  padding: 7px;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .ng__2 hr {
+  margin: 7px;
+}
+.main__card .mian_card_design .saffron__tab .auto__clicker .ng__2 p .ng__smt {
+  background: linear-gradient(169.87deg, #F7C243 7.58%, #FD902B 69.55%);
+  background: linear-gradient(169.87deg, #F7C243 7.58%, #FD902B 69.55%);
+  color: black;
+  padding: 2px 4px;
+  font-size: 14px;
+}
+.main__card .mian_card_design .bottom__nav_icon {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  border-radius: 0.8rem;
+  color: #0A2647;
+  border: 2.5px solid;
+  padding-bottom: 0.5rem;
+  border-image-source: linear-gradient(180deg, #302961 0%, #0CF4D1 13.41%, #493F95 39.01%, #221D45 80.68%, #211C49 100%);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.3019607843);
+  box-shadow: 0px 8px 12px 6px rgba(0, 0, 0, 0.1490196078);
+}
+.main__card .mian_card_design .bottom__nav_icon img {
+  min-width: 4rem;
+  max-width: 4rem;
+}
+.main__card .mian_card_design .bottom__nav_icon .nav-1 {
+  margin-top: -1rem;
+}
+
+@media (min-width: 320px) and (max-width: 576px) {
+  .main__card .mian_card_design {
+    width: 95%;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron {
+    padding: 0rem;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-item {
+    margin-right: 0.5rem !important;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-link {
+    padding: 0.4rem 0.7rem;
+    font-size: 0.6rem;
+  }
+  .main__card .mian_card_design .header .hello_name p {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .my_fitness p {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .flag__ img {
+    min-width: 1.8rem;
+    max-width: 1.8rem;
+  }
+  .main__card .mian_card_design .header .share___ {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .share___ p span img {
+    min-width: 1rem;
+    max-width: 1rem;
+  }
+  .main__card .mian_card_design .header .upgrade___ {
+    margin-top: 0.8rem;
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .upgrade___ p span img {
+    min-width: 1rem;
+    max-width: 1rem;
+  }
+  .main__card .mian_card_design .saffron__tab .auto__clicker p {
+    font-size: 12px;
+  }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  .main__card .mian_card_design {
+    width: 95%;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron {
+    padding: 0rem;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-item {
+    margin-right: 0.5rem !important;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-link {
+    padding: 0.4rem 0.7rem;
+    font-size: 0.7rem;
+  }
+  .main__card .mian_card_design .header .hello_name p {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .my_fitness p {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .flag__ img {
+    min-width: 1.8rem;
+    max-width: 1.8rem;
+  }
+  .main__card .mian_card_design .header .share___ {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .share___ p span img {
+    min-width: 1rem;
+    max-width: 1rem;
+  }
+  .main__card .mian_card_design .header .upgrade___ {
+    margin-top: 0.8rem;
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .upgrade___ p span img {
+    min-width: 1rem;
+    max-width: 1rem;
+  }
+  .main__card .mian_card_design .saffron__tab .auto__clicker p {
+    font-size: 12px;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .main__card .mian_card_design {
+    width: 95%;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron {
+    padding: 0rem;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-item {
+    margin-right: 0.5rem !important;
+  }
+  .main__card .mian_card_design .saffron__ .nav__saffron .nav-pills .nav-link {
+    padding: 0.4rem 0.7rem;
+    font-size: 0.7rem;
+  }
+  .main__card .mian_card_design .header .hello_name p {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .my_fitness p {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .flag__ img {
+    min-width: 1.8rem;
+    max-width: 1.8rem;
+  }
+  .main__card .mian_card_design .header .share___ {
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .share___ p span img {
+    min-width: 1rem;
+    max-width: 1rem;
+  }
+  .main__card .mian_card_design .header .upgrade___ {
+    margin-top: 0.8rem;
+    font-size: 9px;
+  }
+  .main__card .mian_card_design .header .upgrade___ p span img {
+    min-width: 1rem;
+    max-width: 1rem;
+  }
+  .main__card .mian_card_design .saffron__tab .auto__clicker p {
+    font-size: 12px;
+  }
+}/*# sourceMappingURL=style.css.map */
